@@ -1,7 +1,7 @@
 ### Hello there 👋
 ## Welcome to my profile page!
 
-![](animated_logo.gif)
+![](super-logo.gif)
 
 I'm a student at EPITECH.
 
