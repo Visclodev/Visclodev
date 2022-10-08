@@ -5,9 +5,15 @@
 
 I'm a student at EPITECH.
 
-##### I'm currently learning :
+#### I'm very good at:
 
-##### c, javascript, c# (for Unity3D)
+#### c, c#(unity3d), c++
+
+#### I'm currently learning :
+
+#### Networking, JS, Python & IA
+
+
 
 <!--
 **Visclodev/Visclodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
